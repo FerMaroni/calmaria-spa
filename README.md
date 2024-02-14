@@ -35,3 +35,5 @@ Depois, abra o projeto no seu navegador.
 
 O Calmaria Spa é uma empresa fictícia utilizada nesse curso da Alura.
 A ideia principal desse curso é evoluir ainda mais os conhecimentos em Acessibilidade Web com foco em CSS. 
+
+Para acessar basta clicar aqui: https://calmaria-spa-delta.vercel.app/
