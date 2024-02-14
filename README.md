@@ -11,7 +11,7 @@ A Calmaria Spa é um empresa de bem estar e saúde. Nesse momento, temos o códi
 
 Nesse momento, nós temos a página que foi idealizada como entrega do time de desenvolvimento.
 
-Durante o curso, nós analisamos toda a estrutura do HTML e refatorou os pontos necessários do projeto.
+Durante o curso, nós analisamos toda a estrutura do HTML e refatoramos os pontos necessários do projeto.
 O desafio é encontrar pontos de melhoria na semântica do código HTML, para tornar o projeto Calmaria Spa acessível para todas as pessoas usuárias. 
 
 ## ✔️ Técnicas e tecnologias utilizadas
