@@ -2,7 +2,7 @@
 
 # Calmaria Spa
 
-A Calmaria Spa é um empresa de bem estar e saúde. Nesse momento, temos o código inicial da sua landing page, onde vamos encontrar pontos de melhoria para tornar o projeto acessível a todas as pessoas usuárias.
+A Calmaria Spa é um empresa de bem estar e saúde. Nesse momento, temos o código inicial da sua landing page, onde encontramos pontos de melhoria para tornar o projeto acessível a todas as pessoas usuárias.
 
 <img src="./assets/screenshot.png" alt="Calmaria Spa" width="50%">
 
